@@ -1,7 +1,5 @@
 requests
 bs4 
 pandas
-io
 psycopg2
-re
 streamlit
